@@ -1,17 +1,17 @@
 # Mob Programming
 On Nepal Codes we belive that Team Work makes the Dream Work! :raised_hands:
 One way we collaborate is through mob programming. In this section you can learn all about our Mob Programming practices.
-![octocat](https://octodex.github.com/images/benevocats.png)
+<img src="https://octodex.github.com/images/benevocats.png" alt="octocat" width="300">
+
 
 ## What is it?
 
 Mob programming
 
 From [wikipedia](https://en.wikipedia.org/wiki/Mob_programming):
-```
-Mob programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer. This is similar to pair programming where two people sit at the same computer and collaborate on the same code at the same time.
-```
-![MobProgramming](https://upload.wikimedia.org/wikipedia/commons/3/31/Mob_prog.jpg)
+> Mob programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer. This is similar to pair programming where two people sit at the same computer and collaborate on the same code at the same time.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Mob_prog.jpg" alt="MobProgramming" width="300">
 
 You can read and watch more about mob programming here: https://www.agilealliance.org/resources/experience-reports/mob-programming-agile2014/, https://www.agilealliance.org/resources/sessions/mob-programming-aatc2017/
 
