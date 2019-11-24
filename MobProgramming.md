@@ -26,6 +26,7 @@ Mob programming encourages collaboration, knowledge sharing, and syncs everyone 
 First, setup these tools to get ready for remote mob programming:
 * Video Conferencing with screen share - Hangouts or Zoom work well for this
 * Visual Studio Code and VS Code Live Share extension - Allows multiple people to share the same codebase at the same time. You can set it up here: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+
 That's it! You're ready to start mobbing :tada:
 
 ### Rules
@@ -34,7 +35,7 @@ Mob programming creates an open environment for _everyone_ to share thoughts and
 
 #### :handshake:	The Driver/Navigators Pattern of Programming
 From the mob programming website:
-"There are two roles: The Driver, and the Navigator. The Driver sits at the keyboard and types in the code. The Navigators discuss the idea being coded and guide the Driver in creating the code. This means the Driver has a much more mechanical job than when coding solo. The Driver listens to the Navigators, and must trust the Navigators. The Driver is focused on the typing/coding. The Navigators are expressing their ideas to the Driver in a slow, metered approach so the Driver only has to focus on the next thing to type at any given time."
+> There are two roles: The Driver, and the Navigator. The Driver sits at the keyboard and types in the code. The Navigators discuss the idea being coded and guide the Driver in creating the code. This means the Driver has a much more mechanical job than when coding solo. The Driver listens to the Navigators, and must trust the Navigators. The Driver is focused on the typing/coding. The Navigators are expressing their ideas to the Driver in a slow, metered approach so the Driver only has to focus on the next thing to type at any given time.
 
 #### :hourglass: Driver Rotation using a Timer
 Everyone gets a chance to drive and navigate. Every 5 minutes the driver rotates and someone new takes the steering wheel.
